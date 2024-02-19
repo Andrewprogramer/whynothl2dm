@@ -35,7 +35,7 @@ def WallhackON():
 
 Twallhack = Label(root, text = "Wallhack", bg='black', fg='white' ).place(x=0,y=0,width=318,height=30)
 Twallhack = Label(root, text = "About", bg='black', fg='white').place(x=0,y=110,width=318,height=30)
-Twallhack = Label(root, text = "WnyNot Half-Life 2 DeathMatch Build 16.02.2024", bg='black', fg='white').place(x=0,y=130,width=319,height=106)
+Twallhack = Label(root, text = "WhyNot Half-Life 2 DeathMatch Build 16.02.2024", bg='black', fg='white').place(x=0,y=130,width=319,height=106)
 Button1 = Button(root, text ="ON", bg='#ec03fc', fg='white' , command = WallhackON)
 Button1.place(x=130,y=30,width=59,height=30)
 Button2 = Button(root, text ="OFF", bg='#ec03fc', fg='white' , command = WallhackOFF)
