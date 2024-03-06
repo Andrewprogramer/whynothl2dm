@@ -1,7 +1,4 @@
-# WhyNot Half-Life 2 DeathMatch Cheat
 ![logo](https://github.com/Andrewprogramer/whynothl2dm/assets/114591031/5482b62e-4fcb-46fd-8ae2-8ae646b753df)
-
-This is external open source Python cheat for the game Half Life 2 Deathmatch.
 # Function 🐇
 -Wallhack👀 
 # Screenshots🖼
